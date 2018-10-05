@@ -1,8 +1,12 @@
-# ttu-acm-chapter-homepage-proposal
-Homepage design proposal for the chapter's website
+# Designs for the ACM Website
 
-The images used in the proposal are from the [ttu chapter's website](https://acmttu.org/). 
-I made the illustrations.
+Images sourced from [the website](https://acmttu.org/).
+
+Illustrations by [N'Godjigui Junior Diarrassouba](https://github.com/madewithsmiles)
+
+Design is based on Material Design. Please visit [material.io](https://material.io/) from more information
+
+For questions on development and implementation of design, please contact [Ynigo Reyes](mailto:acmtexastech@gmail.com)
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). 
+This project is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
