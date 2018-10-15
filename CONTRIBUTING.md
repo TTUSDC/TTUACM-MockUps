@@ -11,7 +11,10 @@
 
 
     Foo_Bar_Illustration.jpg
+
     Foo_Bar_Logo.svg
+
     Foo_Bar_Icon_1.svg
+
     Foo_Bar_Icon_2.svg
 
