@@ -8,4 +8,4 @@ Each page has its own preview
 - [About](https://github.com/TTUSDC/TTUACM-MockUps/blob/master/Previews/About.jpg)
 - [Login](https://github.com/TTUSDC/TTUACM-MockUps/blob/master/Previews/Login.jpg)
 - [Sign Up](https://github.com/TTUSDC/TTUACM-MockUps/blob/master/Previews/Sign_up.jpg)
-- [Logged In Dashbord](https://github.com/TTUSDC/TTUACM-MockUps/blob/master/Previews/Logged_In.jpg
+- [Logged In Dashbord](https://github.com/TTUSDC/TTUACM-MockUps/blob/master/Previews/Logged_In.jpg)
