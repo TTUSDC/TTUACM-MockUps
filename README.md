@@ -10,3 +10,5 @@ For questions on development and implementation of design, please contact [Ynigo
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+## I have a lot to learn
